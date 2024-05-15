@@ -1,4 +1,4 @@
-//daha rahat export islemleri icin yapilan islem...
+
 export{default as DashboardLayout} from './DashboardLayout'
 export{default as AddJob} from './AddJob'
 export{default as Admin} from './Admin'
