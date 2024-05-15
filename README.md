@@ -18,9 +18,9 @@ Murad Eyvazli
 
 1. [Proje Planı](ProjePlani.png)
 2. [Gereksinim Analizi](Gereksinimler.md)
-3. [Durum Diyagramı](Blankdiagram.png)
+3. ![Durum Diyagramı](Blankdiagram.png)
 4. [Durum Senaryoları](UseCaseTablosu.pdf)
-5. [Veritabanı Diyagramı](VeriTabaniDiagrami.png)
+5. ![Veritabanı Diyagramı](VeriTabaniDiagrami.png)
 6. [Front-End](#front-end)
 7. [Back-End](#back-end)
 8. [Test](#test)
