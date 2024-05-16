@@ -1,7 +1,7 @@
 import { FormRow,FormRowSelect} from '../comp';
 import Wrapper from '../assets/wrappers/DashboardFormPage';
 import { useOutletContext } from 'react-router-dom';
-import { JOB_STATUS, JOB_TYPE } from '../../../utils/constants';
+import { JOB_STATUS, JOB_TYPE } from '../../utils/constants'
 import { Form, redirect,useNavigation } from 'react-router-dom';
 import customFetch from '../utils/customFetch';
 
