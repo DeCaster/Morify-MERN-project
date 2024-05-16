@@ -3,6 +3,9 @@
 ## Proje Tanımı:
 Proje Kategorisi: MERN (MongoDB, Express.js, React.js, Node.js)
 Belirtilen Kategori: İş Takibi Uygulaması olucakdır.
+## Uygulama Linki Frontend:
+
+[Morify :](https://morify.netlify.app)
 
 ## Uygulama Adresi:
 [Github :](https://github.com/DeCaster/Morify-dashboard)
