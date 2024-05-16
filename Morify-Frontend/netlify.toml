@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"  # Projenin build komutu
-  publish = "public"          # Projenin yayınlanacak dizini (örneğin, build sonrası oluşturulan dosyaların bulunduğu klasör)
+  publish = "dist"          # Projenin yayınlanacak dizini (örneğin, build sonrası oluşturulan dosyaların bulunduğu klasör)
   
 [[redirects]]  # Opsiyonel: Yönlendirme ayarları
   from = "/*"
