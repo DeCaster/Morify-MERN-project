@@ -4,9 +4,6 @@
 Proje Kategorisi: MERN (MongoDB, Express.js, React.js, Node.js)
 Belirtilen Kategori: İş Takibi Uygulaması olucakdır.
 
-## Referans Uygulama:
-[Jobify :]()
-
 ## Uygulama Adresi:
 [Github :](https://github.com/DeCaster/Morify-dashboard)
 
