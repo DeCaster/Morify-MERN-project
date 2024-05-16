@@ -5,7 +5,7 @@ import Wrapper from '../assets/wrappers/Job';
 import JobInfo from './JobInfo';
 import dayjs from 'dayjs';
 import advancedFormat from 'dayjs/plugin/advancedFormat';
-import mockData from '../../../utils/mockData.json';
+import mockData from '../../utils/mockData.json';
 
 dayjs.extend(advancedFormat);
 
