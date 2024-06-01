@@ -1,0 +1,8 @@
+[build]
+  command = "npm run build"  # Projenin build komutu
+  publish = "dist"          # Projenin yayınlanacak dizini (örneğin, build sonrası oluşturulan dosyaların bulunduğu klasör)
+  
+[[redirects]]  # Opsiyonel: Yönlendirme ayarları
+  from = "/*"
+  to = "/index.html"
+  status = 200
