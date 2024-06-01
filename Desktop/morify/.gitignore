@@ -33,6 +33,26 @@ dist-ssr
 *.bak
 *.bin
 
+# Sistem dosyaları
+*.DS_Store
+*.log
+*.tmp
+*.swp
+*.swo
+*.lock
+*.bak
+*.bin
+*.dat
+*.db
+*.dump
+*.sql
+*.sqlite
+*.tar
+*.gz
+*.zip
+*.7z
+*.rar
+
 # Kullanıcı dizinleri
 *.CFUserTextEncoding
 *.bash_history
@@ -42,9 +62,38 @@ dist-ssr
 *.zsh_history
 *.zsh_sessions
 *.zshrc
+*.anaconda/
+*.arduinoIDE/
+*.aspnet/
+*.cocoapods/
+*.conda/
+*.dotnet/
+*.ipython/
+*.jupyter/
+*.lmmsrc.xml
+*.local/
+*.minikube/
+*.mongodb/
+*.node_repl_history
+*.npm/
+*.nuget/
+*.packettracer/
+*.quokka/
+*.redhat/
+*.rest-client/
+*.sao/
+*.spyder-py3/
+*.ssh/
+*.swiftpm/
+*.templateengine/
+*.th-client/
+*.viminfo
+*.vs-kubernetes/
+*.vscode/
+*.xonshrc
+
+# Uygulama dizinleri
 Applications/
-Cisco Packet Tracer 8.2.1/
-Creative Cloud Files Personal Account muradeyvazli18@gmail.com 9F124E70650A0E430A495C3A@AdobeID/
 Documents/
 Downloads/
 Library/
@@ -53,44 +102,8 @@ Music/
 Pictures/
 Public/
 anaconda3/
-anaconda/
-arduinoIDE/
-aspnet/
-cocoapods/
-conda/
-dotnet/
 git/
-ipython/
-jupyter/
-lmmsrc.xml
-local/
-minikube/
-mongodb/
-node_repl_history/
-npm/
-nuget/
-packettracer/
-quokka/
-redhat/
-rest-client/
-sao/
-spyder-py3/
-ssh/
-swiftpm/
-templateengine/
-th-client/
-viminfo
-vs-kubernetes/
-vscode/
-xonshrc
-.DS_Store
-.localized
-*.docx
-*.json
-*.pdf
-*.toml
-*.py
-*.txt
+vm1/
 
 # Projeyle ilgisiz dizinler
 3cusinif 2cuDonem/
@@ -117,9 +130,10 @@ erasmus/
 frontend-main/
 mern-jobify-v2-main/
 mimarlik final tekrar/
+morify 2/
 netlify.toml
 node-express-course-main-2/
 odevAglar/
 projects/
-yazılımMuhendisligi odev/
+"yazılımMuhendisligi odev/"
 ~$snepolimorfizm_odev.docx
