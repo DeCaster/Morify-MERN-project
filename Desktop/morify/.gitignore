@@ -23,3 +23,103 @@ dist-ssr
 *.sln
 *.sw?
 /node_modules
+# Sistem dosyaları
+*.DS_Store
+*.log
+*.tmp
+*.swp
+*.swo
+*.lock
+*.bak
+*.bin
+
+# Kullanıcı dizinleri
+*.CFUserTextEncoding
+*.bash_history
+*.bash_profile
+*.bashrc.save
+*.zprofile
+*.zsh_history
+*.zsh_sessions
+*.zshrc
+Applications/
+Cisco Packet Tracer 8.2.1/
+Creative Cloud Files Personal Account muradeyvazli18@gmail.com 9F124E70650A0E430A495C3A@AdobeID/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+anaconda3/
+anaconda/
+arduinoIDE/
+aspnet/
+cocoapods/
+conda/
+dotnet/
+git/
+ipython/
+jupyter/
+lmmsrc.xml
+local/
+minikube/
+mongodb/
+node_repl_history/
+npm/
+nuget/
+packettracer/
+quokka/
+redhat/
+rest-client/
+sao/
+spyder-py3/
+ssh/
+swiftpm/
+templateengine/
+th-client/
+viminfo
+vs-kubernetes/
+vscode/
+xonshrc
+.DS_Store
+.localized
+*.docx
+*.json
+*.pdf
+*.toml
+*.py
+*.txt
+
+# Projeyle ilgisiz dizinler
+3cusinif 2cuDonem/
+Arduino Proteus Library/
+BilgiGuvenligiFinalKonulari/
+BilgisayarAglariFinalNotlar.docs.docx
+DemoUserData.json
+IlGocIdaresiGerekenler/
+Jobs-api/
+MernCourse-Notes/
+Morify-dashboard 2/
+MuradEyvazli-CV-Porfolio.pdf
+Onemli backend trips/
+Projelerim-Swift/
+README.md
+SDU-PC/
+SpecialPhotos/
+Staj/
+SwiftNotlar/
+UniDersleri3sinif/
+Wallpapers/
+bilgisayarAglariFinalCalisma/
+erasmus/
+frontend-main/
+mern-jobify-v2-main/
+mimarlik final tekrar/
+netlify.toml
+node-express-course-main-2/
+odevAglar/
+projects/
+yazılımMuhendisligi odev/
+~$snepolimorfizm_odev.docx
